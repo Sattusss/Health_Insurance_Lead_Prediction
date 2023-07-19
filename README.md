@@ -54,7 +54,7 @@ The project structure is organized as follows:
 ├── README.md
 ```
 
-- **data/raw**: Contains the raw dataset `insurance_data.csv`.
+- **data/raw**: Contains the raw dataset `train.csv`.
 - **data/processed**: This directory will be created to store the cleaned dataset.
 
 ## Getting Started
