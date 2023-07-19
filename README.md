@@ -35,7 +35,7 @@ The dataset used in this project contains the following features:
 - **Reco_Policy_Premium**: Recommended policy premium amount.
 - **Response**: Binary variable indicating whether the individual became a lead (1) or not (0) for health insurance.
 
-The dataset is available in the `data/raw` directory with the file name `insurance_data.csv`.
+The dataset is available in the `data/raw` directory with the file name `train.csv`.
 
 ## Project Structure
 The project structure is organized as follows:
